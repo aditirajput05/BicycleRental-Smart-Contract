@@ -104,7 +104,7 @@ npx hardhat help
 ## Authors
 
 Contributors names and contact info:
-- Aditi Rajput [LinkedIn]([https://www.linkedin.com/in/aditi-rajput-b9360720b/])
+- Aditi Rajput [LinkedIn](https://www.linkedin.com/in/aditi-rajput-b9360720b/)
 
 ## License
 
